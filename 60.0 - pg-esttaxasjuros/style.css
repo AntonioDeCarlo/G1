@@ -1,0 +1,115 @@
+
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            background-color: rgba(88, 67, 67, 0.658);
+            
+        }
+
+        h1{
+           margin: 10px 0px 0px 0px;   
+        }  
+        
+        h2{
+           margin: 0px 0px 90px 0px;   
+        }  
+
+
+        p{
+            margin: 0px;
+        }
+
+        
+
+         /* Início da Configuração da 1°. Tabela */ 
+
+         .cab{
+            background-color: rgb(0, 0, 0);
+            color: rgb(253, 253, 253);
+            text-align: center;
+        }   
+
+         #tab1{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 7px;
+            border: 1px solid black;
+            width:400px;
+        }
+
+        /* Fim da Configuração da 1°. Tabela */ 
+
+
+        /* Início da Configuração da 2°. Tabela */ 
+
+       
+        #tab2{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 7px;
+            border: 1px solid black;
+            width: 468px;
+        }
+
+        .cab2{
+            background-color: rgb(0, 0, 0);
+            color: rgb(253, 253, 253);
+            text-align: center;
+        }   
+
+        .emp2{
+            text-align: center;
+            background-color: azure;
+        }
+
+        .tj{
+            background-color: azure;
+            text-align: center;
+            font-style: italic;
+            font-weight: bold;
+           
+        }
+
+        .tab2{
+            text-align: center;
+        }     
+
+       /* Fim da Configuração da 2°. Tabela */ 
+
+
+
+        tr{
+            background-color: aqua;
+        }
+
+       
+        
+
+
+        #tab1{
+            margin: 3px auto 20px ;
+            
+        }
+
+        
+
+        td{
+            border: 1px solid black;
+            padding: 7px;
+            text-align: right;
+        }
+         
+
+        #t1{
+            padding: 10px 0px 0px 0px;
+            text-align: center;
+        }
+        #t2{
+            padding: 50px 0px 0px 0px;
+            text-align: center;
+        }
+       
+    
